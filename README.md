@@ -19,5 +19,11 @@ Se verifica que los datos y las columnas conincidan correctamente
 ![image](https://github.com/user-attachments/assets/49b2a254-8a5a-43d4-be29-faea7b41b4a3)
 y se importan los datos
 ![image](https://github.com/user-attachments/assets/6ecc9f26-18d9-4922-b864-12ebe9da358d)
-
-![image](https://github.com/user-attachments/assets/a250dae9-c0c4-4f72-af8c-8f37fd70850a)
+Una vez cargados los datos se ejecuta un código de creación de tablas normalizadas
+![image](https://github.com/user-attachments/assets/f714cb56-0753-442f-9ef3-6115e83dfa1f)
+Luego un procedimiento para migrar los datos desde la tabla original hacia las tablas normalizadas
+![image](https://github.com/user-attachments/assets/369107a5-fa96-4987-bc34-f35035ba029e)
+Por último un procedimiento para la cración de las relaciones entre las tablas
+![image](https://github.com/user-attachments/assets/bea05e56-9f66-4f30-85b8-d71585eca067)
+Generando el siguiente diagrama entidad relación
+![diagrama entidad relacion](https://github.com/user-attachments/assets/38c9f2d8-4666-4fd1-ad50-8402afa6ba35)
