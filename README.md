@@ -95,12 +95,4 @@ Si tienes dudas o sugerencias, no dudes en abrir un issue o hacer un pull reques
 
 ---
 
-🚀 ¡Listo para cargar y gestionar los datos en MySQL! 🎯
-
-
-Luego un procedimiento para migrar los datos desde la tabla original hacia las tablas normalizadas
-![image](https://github.com/user-attachments/assets/369107a5-fa96-4987-bc34-f35035ba029e)
-Por último un procedimiento para la cración de las relaciones entre las tablas
-![image](https://github.com/user-attachments/assets/bea05e56-9f66-4f30-85b8-d71585eca067)
-Generando el siguiente diagrama entidad relación
-![diagrama entidad relacion](https://github.com/user-attachments/assets/38c9f2d8-4666-4fd1-ad50-8402afa6ba35)
+Los datos sensibles fueron modificados para proteger la identidad de los pacientes.
